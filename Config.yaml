@@ -1,0 +1,22 @@
+# DATA BASE CONNECTION PARAMETERS
+
+DbHost : "127.0.0.1"
+
+UserName : "root"
+
+Password: "windows123"
+
+Database: "moviedatabase"
+
+MovieTable: "Movie"
+
+DirectorTable: "Director"
+
+ProducerTable: "Producer"
+
+WriterTable: "Writer"
+
+ActorTable: "Actor"
+
+MoviesActorTable: "MoviesActor"
+ 
